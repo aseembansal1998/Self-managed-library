@@ -1,0 +1,115 @@
+
+.navbar{
+	background-color:  #1c4689;
+	border-bottom: #62bf37 3px solid;
+}
+
+.navbar .navbar-brand{
+	color: white;
+}
+
+.navbar .navbar-brand :hover{
+	color:#d9d9db ;
+}
+
+.navbar .navbar-nav li a{
+	color: white;
+}
+
+.navbar .navbar-nav li a :hover{
+	color:#d9d9db;
+
+}
+
+
+.navbar-toggler{
+	background-color: grey;
+
+}
+
+.after_nav{
+
+	background-image: 
+
+}
+
+.row_margin{
+
+	margin-bottom: 10%;
+}
+
+
+
+/* ///card stye */
+.pic_card{
+
+	font-family: 'Lato', sans-serif;
+	box-shadow:  0 4px 13px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.20);
+	text-align: center;
+	color: black;
+
+}
+
+.pic_card:hover {
+
+	font-family: 'Lato', sans-serif;
+
+	box-shadow:  0 1px 4px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	color: black;
+
+}
+
+#uppr_sec{
+
+ 	
+ 	/*text-align: center; */
+ 	margin-top: 4%;
+	background-image: url('../images/sec_j.jpg');
+	width: 100%;
+	height: 50%;
+	background-size: cover;
+	background-position: center; 
+	
+}
+
+
+
+#main_div{
+	background-image: url('../images/lib.jpg');
+	margin-top: 4%;
+	background-size: cover;
+	background-position: center; 
+}
+
+#form_s{
+	
+	
+	padding: 20%;
+	margin-left: 25%;
+
+}
+
+#ser{
+	margin-top: 4%;
+	text-align: center;
+	font-family: 'Bree Serif', serif;
+
+}
+
+hr{
+	text-align: center;
+	width: 50%;
+	border-bottom: 3px;
+}
+
+#jas{
+
+	color: #325fa8;
+	font-family: 'Bree Serif', serif;
+}
+
+
+#carouselExampleSlidesOnly{
+
+	height: 30%;
+}

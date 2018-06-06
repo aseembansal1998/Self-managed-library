@@ -1,0 +1,89 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	height: 100vh;
+}
+#particles-js{
+	/*background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(../images/l1.jpg); */
+	
+	height: 100%;
+	background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url('../images/l1.jpg');
+	
+	background-size: cover;
+	background-position: center; 
+}
+
+.T_nav{
+	padding-top: 4%;
+	
+}
+
+#main_heading{
+	text-align: center;
+	padding: 10%;
+
+}
+
+#heading{
+	color:#e3e8ed;
+	font-family: 'Bree Serif', serif;
+	font-size: 70px;
+}
+
+#sub_heading{
+	color:#e3e8ed;
+	font-weight: 5px;
+
+}
+
+hr{
+	border-bottom: 3px;
+}
+
+#log_btn{
+	margin-left: 12px;
+}
+
+#sign_btn{
+	margin-right: 12px;
+}
+
+/*#des_img{
+	background-image: url('../images/room.jpg');
+}
+*/
+#library_div{
+	padding-top: 30px;
+}
+
+.lib_para{
+	font-family: 'Bree Serif', serif;
+	color: #c3bfcc;
+
+}
+
+.lib_mar{
+	margin-top:40px;
+	background-color: black; 
+}
+
+#profile{
+	padding-top: 40px;
+}
+
+#about{
+	text-align: center;
+}
+
+#hr_about{
+	width: 40%;
+	color: #c3bfcc;
+}
+
+.name_o{
+	color: #c3bfcc;
+	text-align: center;
+	font-family: 'Bree Serif', serif;
+
+}
